@@ -1,20 +1,20 @@
 {
   "schema": 1,
-  "generated": "2026-08-22T13:51:43.1440431Z",
+  "generated": "2026-08-22T13:52:58.8187648Z",
   "channels": {
     "release": {
       "version": "1.1",
       "notes": "version lock test",
-      "published": "2026-08-22T13:51:43.1438309Z",
+      "published": "2026-08-22T13:52:58.8184271Z",
       "package": {
         "url": "https://github.com/actuallyscamm/dsoessentials-dist/releases/download/release-1.1/release-1.1.bin",
         "size": 146945590,
-        "sha256": "697f8deab09a1fcc227845844892de7e49c9962cfbb4110a52bc1bfc7620f1a5",
+        "sha256": "a1ba0edc7ce43a26d8e0f01aad47f83149ed7586261da8bb6ba7d356983b1f82",
         "plain": "424c8331460b98b9b11acb5ab0ddbb5e85b0a73bcdde2029a3c9a4f5e61a1c78",
         "enc": "aes-256-gcm",
-        "salt": "MB\u002Bu7cS11kLf1E7KrOMPNw==",
-        "nonce": "GqcrvsjxXrU=",
-        "keyId": "release-1.1-875a8512"
+        "salt": "Eno82yN9blKadfS2uknzOA==",
+        "nonce": "ioQyvqWS1es=",
+        "keyId": "release-1.1-d90ba085"
       },
       "history": [
         {
