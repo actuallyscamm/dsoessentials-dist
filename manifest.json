@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-08-22T15:22:31.4427543Z",
+  "generated": "2026-08-22T21:08:26.8339442Z",
   "channels": {
     "release": {
       "version": "1.0",
@@ -15,6 +15,21 @@
         "salt": "xeJef\u002BNbHFFOX8vM0uFMdQ==",
         "nonce": "wEdwonAaVzE=",
         "keyId": "release-1.0-40d16be7"
+      }
+    },
+    "dev": {
+      "version": "1.01",
+      "notes": "beta 1.01 - bitte testen",
+      "published": "2026-08-22T21:08:26.8337575Z",
+      "package": {
+        "url": "https://github.com/actuallyscamm/dsoessentials-dist/releases/download/dev-1.01/dev-1.01.bin",
+        "size": 146949686,
+        "sha256": "42d1e7e1312d0d02b62bb4195300190e5df416c38cb49bb9d9c7055e8d78c917",
+        "plain": "3c2ad6b8826eebbdece8bfdc78317bd2dfe80ed58e5b032758832d2af6f884dc",
+        "enc": "aes-256-gcm",
+        "salt": "KDPXY0CiHWEkXsLS1zFMLw==",
+        "nonce": "BwSEFbdUE3U=",
+        "keyId": "dev-1.01-04629397"
       }
     }
   }
