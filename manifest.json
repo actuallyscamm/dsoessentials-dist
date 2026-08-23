@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-08-22T21:08:26.8339442Z",
+  "generated": "2026-08-23T10:59:04.8334532Z",
   "channels": {
     "release": {
       "version": "1.0",
@@ -19,17 +19,17 @@
     },
     "dev": {
       "version": "1.01",
-      "notes": "beta 1.01 - bitte testen",
-      "published": "2026-08-22T21:08:26.8337575Z",
+      "notes": "autoloot laeuft jetzt in-process (injected)",
+      "published": "2026-08-23T10:59:04.8332450Z",
       "package": {
         "url": "https://github.com/actuallyscamm/dsoessentials-dist/releases/download/dev-1.01/dev-1.01.bin",
-        "size": 146949686,
-        "sha256": "42d1e7e1312d0d02b62bb4195300190e5df416c38cb49bb9d9c7055e8d78c917",
-        "plain": "3c2ad6b8826eebbdece8bfdc78317bd2dfe80ed58e5b032758832d2af6f884dc",
+        "size": 147183158,
+        "sha256": "bc977e651d56ae367826596168ef9a259a11af76507abc23dc440de03875658b",
+        "plain": "5f2b46bc3d28f900e4bf798f6e313cde0c890db586090fbe6ec9313b52386103",
         "enc": "aes-256-gcm",
-        "salt": "KDPXY0CiHWEkXsLS1zFMLw==",
-        "nonce": "BwSEFbdUE3U=",
-        "keyId": "dev-1.01-04629397"
+        "salt": "2UsOw9NWgn22\u002BiZSSzu/Hg==",
+        "nonce": "rW\u002B7ZSjfGeg=",
+        "keyId": "dev-1.01-1d353036"
       }
     }
   }
