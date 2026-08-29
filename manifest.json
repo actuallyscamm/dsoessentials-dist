@@ -1,21 +1,38 @@
 {
   "schema": 1,
-  "generated": "2026-08-23T10:59:04.8334532Z",
+  "generated": "2026-08-29T20:52:54.9176702Z",
   "channels": {
     "release": {
-      "version": "1.0",
-      "notes": "release 1.0",
-      "published": "2026-08-22T15:22:31.4423511Z",
+      "version": "1.01",
+      "notes": "map catalogue, overlay animations, in-process",
+      "published": "2026-08-29T20:52:54.9174458Z",
       "package": {
-        "url": "https://github.com/actuallyscamm/dsoessentials-dist/releases/download/release-1.0/release-1.0.bin",
-        "size": 146945590,
-        "sha256": "1a0f274222d207566142b1dc19c6474bc27fae3e8db3d36c451f12eaaed228b6",
-        "plain": "8849af4a9689e255548368fff5b31371e3062a180547104d8108ef7e295ca634",
+        "url": "https://github.com/actuallyscamm/dsoessentials-dist/releases/download/release-1.01/release-1.01.bin",
+        "size": 147543606,
+        "sha256": "5d5732241584eb5f98f606254f7259103ee67a68e8d79e4bc95ca476a6d87723",
+        "plain": "d16031f4fb3a0e6c57103e244371b3e095d9c32b71bd46c5def10e748429b096",
         "enc": "aes-256-gcm",
-        "salt": "xeJef\u002BNbHFFOX8vM0uFMdQ==",
-        "nonce": "wEdwonAaVzE=",
-        "keyId": "release-1.0-40d16be7"
-      }
+        "salt": "qxmUDZ6UUNcLhQVrr01qXQ==",
+        "nonce": "8HHZFsP78ug=",
+        "keyId": "release-1.01-41b8cd48"
+      },
+      "history": [
+        {
+          "version": "1.0",
+          "notes": "release 1.0",
+          "published": "2026-08-22T15:22:31.4423511Z",
+          "package": {
+            "url": "https://github.com/actuallyscamm/dsoessentials-dist/releases/download/release-1.0/release-1.0.bin",
+            "size": 146945590,
+            "sha256": "1a0f274222d207566142b1dc19c6474bc27fae3e8db3d36c451f12eaaed228b6",
+            "plain": "8849af4a9689e255548368fff5b31371e3062a180547104d8108ef7e295ca634",
+            "enc": "aes-256-gcm",
+            "salt": "xeJef\u002BNbHFFOX8vM0uFMdQ==",
+            "nonce": "wEdwonAaVzE=",
+            "keyId": "release-1.0-40d16be7"
+          }
+        }
+      ]
     },
     "dev": {
       "version": "1.01",
