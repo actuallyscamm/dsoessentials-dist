@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-08-29T20:52:54.9176702Z",
+  "generated": "2026-08-30T20:23:54.6548058Z",
   "channels": {
     "release": {
       "version": "1.01",
@@ -35,19 +35,36 @@
       ]
     },
     "dev": {
-      "version": "1.01",
-      "notes": "autoloot laeuft jetzt in-process (injected)",
-      "published": "2026-08-23T10:59:04.8332450Z",
+      "version": "1.1",
+      "notes": "Auto Vendor ist neu: verkauft und schmilzt direkt aus den Taschen, ohne Shop-Klicks. Zwei getrennte Lanes (Sell/Melt) mit Off/Auto/Manual und eigenem Keybind, Familien- und Rarity-Filter, Seitenauswahl, Speed-Regler und funf Sell-when-Modi (instantly, floor clear, bags full, timed, on arrival). Auto Loot zeigt jetzt die freien Slots, stoppt bei vollem Inventar, idled in der Charakterauswahl und geht beim Spielneustart nicht mehr aus. Und das Wichtigste zum Testen: das Spiel freezed nicht mehr wenn viele Items auf einmal bewegt werden - Bloodchests aufreissen oder ein",
+      "published": "2026-08-30T20:23:54.6545831Z",
       "package": {
-        "url": "https://github.com/actuallyscamm/dsoessentials-dist/releases/download/dev-1.01/dev-1.01.bin",
-        "size": 147183158,
-        "sha256": "bc977e651d56ae367826596168ef9a259a11af76507abc23dc440de03875658b",
-        "plain": "5f2b46bc3d28f900e4bf798f6e313cde0c890db586090fbe6ec9313b52386103",
+        "url": "https://github.com/actuallyscamm/dsoessentials-dist/releases/download/dev-1.1/dev-1.1.bin",
+        "size": 147703664,
+        "sha256": "4aef572ba056f2aa0d4aaa21b91c5bee532a911cf4ce03721b68bc9996c26351",
+        "plain": "365f3592f6b6a701749e444b21dc73f7f71029cc9d1cb00c536263b4fc32e070",
         "enc": "aes-256-gcm",
-        "salt": "2UsOw9NWgn22\u002BiZSSzu/Hg==",
-        "nonce": "rW\u002B7ZSjfGeg=",
-        "keyId": "dev-1.01-1d353036"
-      }
+        "salt": "6/kpR1naYtyX6Tok6XgBuw==",
+        "nonce": "2ZOo8cBDYbI=",
+        "keyId": "dev-1.1-15272615"
+      },
+      "history": [
+        {
+          "version": "1.01",
+          "notes": "autoloot laeuft jetzt in-process (injected)",
+          "published": "2026-08-23T10:59:04.8332450Z",
+          "package": {
+            "url": "https://github.com/actuallyscamm/dsoessentials-dist/releases/download/dev-1.01/dev-1.01.bin",
+            "size": 147183158,
+            "sha256": "bc977e651d56ae367826596168ef9a259a11af76507abc23dc440de03875658b",
+            "plain": "5f2b46bc3d28f900e4bf798f6e313cde0c890db586090fbe6ec9313b52386103",
+            "enc": "aes-256-gcm",
+            "salt": "2UsOw9NWgn22\u002BiZSSzu/Hg==",
+            "nonce": "rW\u002B7ZSjfGeg=",
+            "keyId": "dev-1.01-1d353036"
+          }
+        }
+      ]
     }
   }
 }
