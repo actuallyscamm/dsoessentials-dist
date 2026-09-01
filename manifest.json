@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-08-30T20:23:54.6548058Z",
+  "generated": "2026-09-01T16:26:31.2360669Z",
   "channels": {
     "release": {
       "version": "1.01",
@@ -36,17 +36,17 @@
     },
     "dev": {
       "version": "1.1",
-      "notes": "Auto Vendor ist neu: verkauft und schmilzt direkt aus den Taschen, ohne Shop-Klicks. Zwei getrennte Lanes (Sell/Melt) mit Off/Auto/Manual und eigenem Keybind, Familien- und Rarity-Filter, Seitenauswahl, Speed-Regler und funf Sell-when-Modi (instantly, floor clear, bags full, timed, on arrival). Auto Loot zeigt jetzt die freien Slots, stoppt bei vollem Inventar, idled in der Charakterauswahl und geht beim Spielneustart nicht mehr aus. Und das Wichtigste zum Testen: das Spiel freezed nicht mehr wenn viele Items auf einmal bewegt werden - Bloodchests aufreissen oder ein",
-      "published": "2026-08-30T20:23:54.6545831Z",
+      "notes": "Auto Melt funktioniert jetzt wirklich, Verkaufen braucht keinen Shop mehr, Client-Fenster ueber dem Spiel, Client Behaviour Open/Hidden/Exit, Settings neu sortiert, Instanz-Highlighting",
+      "published": "2026-09-01T16:26:31.2357694Z",
       "package": {
         "url": "https://github.com/actuallyscamm/dsoessentials-dist/releases/download/dev-1.1/dev-1.1.bin",
-        "size": 147703664,
-        "sha256": "4aef572ba056f2aa0d4aaa21b91c5bee532a911cf4ce03721b68bc9996c26351",
-        "plain": "365f3592f6b6a701749e444b21dc73f7f71029cc9d1cb00c536263b4fc32e070",
+        "size": 147761008,
+        "sha256": "a1f197b4e3485a682f83f0157472c8a493985f1c684816cc4480491b2bb78790",
+        "plain": "c37ec339049324a4e053dbc21e95987e14badf6f36a15d758b8212b7aaf84076",
         "enc": "aes-256-gcm",
-        "salt": "6/kpR1naYtyX6Tok6XgBuw==",
-        "nonce": "2ZOo8cBDYbI=",
-        "keyId": "dev-1.1-15272615"
+        "salt": "03OYPM093JvQhRSKV\u002BHrvw==",
+        "nonce": "fogld/6sqv0=",
+        "keyId": "dev-1.1-08f19a34"
       },
       "history": [
         {
