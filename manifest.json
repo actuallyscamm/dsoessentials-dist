@@ -1,22 +1,37 @@
 {
   "schema": 1,
-  "generated": "2026-09-01T16:26:31.2360669Z",
+  "generated": "2026-09-03T12:06:10.9713234Z",
   "channels": {
     "release": {
-      "version": "1.01",
-      "notes": "map catalogue, overlay animations, in-process",
-      "published": "2026-08-29T20:52:54.9174458Z",
+      "version": "1.1.1",
+      "notes": "Auto Vendor, Drop Highlight, Auto Loot, Client-Overlay",
+      "published": "2026-09-03T12:06:10.9709643Z",
       "package": {
-        "url": "https://github.com/actuallyscamm/dsoessentials-dist/releases/download/release-1.01/release-1.01.bin",
-        "size": 147543606,
-        "sha256": "5d5732241584eb5f98f606254f7259103ee67a68e8d79e4bc95ca476a6d87723",
-        "plain": "d16031f4fb3a0e6c57103e244371b3e095d9c32b71bd46c5def10e748429b096",
+        "url": "https://github.com/actuallyscamm/dsoessentials-dist/releases/download/release-1.1.1/release-1.1.1.bin",
+        "size": 148432772,
+        "sha256": "4e258a1bbaaac694f64671f593613be4e090f5e8970c0d059b4264aa9a52022a",
+        "plain": "b056d76e5b5b4de0297451f52947cce10429ec6036bc49656e75cd967dffbe6b",
         "enc": "aes-256-gcm",
-        "salt": "qxmUDZ6UUNcLhQVrr01qXQ==",
-        "nonce": "8HHZFsP78ug=",
-        "keyId": "release-1.01-41b8cd48"
+        "salt": "5SX3c75RrUflxk3mIlXRTg==",
+        "nonce": "yA46IGTttAs=",
+        "keyId": "release-1.1.1-34fbe511"
       },
       "history": [
+        {
+          "version": "1.01",
+          "notes": "map catalogue, overlay animations, in-process",
+          "published": "2026-08-29T20:52:54.9174458Z",
+          "package": {
+            "url": "https://github.com/actuallyscamm/dsoessentials-dist/releases/download/release-1.01/release-1.01.bin",
+            "size": 147543606,
+            "sha256": "5d5732241584eb5f98f606254f7259103ee67a68e8d79e4bc95ca476a6d87723",
+            "plain": "d16031f4fb3a0e6c57103e244371b3e095d9c32b71bd46c5def10e748429b096",
+            "enc": "aes-256-gcm",
+            "salt": "qxmUDZ6UUNcLhQVrr01qXQ==",
+            "nonce": "8HHZFsP78ug=",
+            "keyId": "release-1.01-41b8cd48"
+          }
+        },
         {
           "version": "1.0",
           "notes": "release 1.0",
