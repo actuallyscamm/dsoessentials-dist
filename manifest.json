@@ -1,22 +1,37 @@
 {
   "schema": 1,
-  "generated": "2026-09-10T10:57:47.6880319Z",
+  "generated": "2026-09-12T14:18:51.6665729Z",
   "channels": {
     "release": {
-      "version": "1.2.1",
-      "notes": "fixes the game closing on inject after the September 9th game update",
-      "published": "2026-09-10T10:57:47.6875592Z",
+      "version": "1.2.2",
+      "notes": "Anti Lag, keybinds from profiles, colour picker, modules stay on after restart",
+      "published": "2026-09-12T14:18:51.6661731Z",
       "package": {
-        "url": "https://github.com/actuallyscamm/dsoessentials-dist/releases/download/release-1.2.1/release-1.2.1.bin",
-        "size": 149469080,
-        "sha256": "1239e70318a568ed29e4052988f4935181f8d0563d545af37efcdfadc4c66f85",
-        "plain": "90b322554ac22695df2ba1cd63d45e5eeba71028a327930362ff2ad6c553bd9f",
+        "url": "https://github.com/actuallyscamm/dsoessentials-dist/releases/download/release-1.2.2/release-1.2.2.bin",
+        "size": 149653400,
+        "sha256": "a567c7f03b2ca3f745b5780bca72d6c0a136cf72262ea22ebcf455b3cefc3791",
+        "plain": "39be685e0da78c061ed0ac415121f7ba02d8d621b029c776cb0c5ffbec6a48e7",
         "enc": "aes-256-gcm",
-        "salt": "uPEqsx\u002BD5AwoZx3LfiI5yA==",
-        "nonce": "SgXe0kWBRmw=",
-        "keyId": "release-1.2.1-ce51c6a8"
+        "salt": "m1Vbkem7FvYsE/g6GrlNFw==",
+        "nonce": "tgVeCudfUYU=",
+        "keyId": "release-1.2.2-b6a088ab"
       },
       "history": [
+        {
+          "version": "1.2.1",
+          "notes": "fixes the game closing on inject after the September 9th game update",
+          "published": "2026-09-10T10:57:47.6875592Z",
+          "package": {
+            "url": "https://github.com/actuallyscamm/dsoessentials-dist/releases/download/release-1.2.1/release-1.2.1.bin",
+            "size": 149469080,
+            "sha256": "1239e70318a568ed29e4052988f4935181f8d0563d545af37efcdfadc4c66f85",
+            "plain": "90b322554ac22695df2ba1cd63d45e5eeba71028a327930362ff2ad6c553bd9f",
+            "enc": "aes-256-gcm",
+            "salt": "uPEqsx\u002BD5AwoZx3LfiI5yA==",
+            "nonce": "SgXe0kWBRmw=",
+            "keyId": "release-1.2.1-ce51c6a8"
+          }
+        },
         {
           "version": "1.2.0",
           "published": "2026-09-09T19:56:05.6030768Z",
