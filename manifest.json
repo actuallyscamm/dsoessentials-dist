@@ -1,22 +1,37 @@
 {
   "schema": 1,
-  "generated": "2026-09-12T14:18:51.6665729Z",
+  "generated": "2026-09-16T15:53:04.1801877Z",
   "channels": {
     "release": {
-      "version": "1.2.2",
-      "notes": "Anti Lag, keybinds from profiles, colour picker, modules stay on after restart",
-      "published": "2026-09-12T14:18:51.6661731Z",
+      "version": "1.2.3",
+      "notes": "Sound Mixer, neuer Settings-Tab, Loop in Create, Streamer Mode an der Quelle, viele Fixes",
+      "published": "2026-09-16T15:53:04.1798525Z",
       "package": {
-        "url": "https://github.com/actuallyscamm/dsoessentials-dist/releases/download/release-1.2.2/release-1.2.2.bin",
-        "size": 149653400,
-        "sha256": "a567c7f03b2ca3f745b5780bca72d6c0a136cf72262ea22ebcf455b3cefc3791",
-        "plain": "39be685e0da78c061ed0ac415121f7ba02d8d621b029c776cb0c5ffbec6a48e7",
+        "url": "https://github.com/actuallyscamm/dsoessentials-dist/releases/download/release-1.2.3/release-1.2.3.bin",
+        "size": 149800856,
+        "sha256": "f29f3eb054e3a41908ab57f39fbb410874dfa1c710cd34fc62be950ca8b9706f",
+        "plain": "c345344adb249c07c11ddf48eb21cb6a869cb6ef8fcf89d4f721c4852b6b5aea",
         "enc": "aes-256-gcm",
-        "salt": "m1Vbkem7FvYsE/g6GrlNFw==",
-        "nonce": "tgVeCudfUYU=",
-        "keyId": "release-1.2.2-b6a088ab"
+        "salt": "DATTGL2xnKSeKuzAbjMh2g==",
+        "nonce": "1eM3chZ8OEU=",
+        "keyId": "release-1.2.3-f602994e"
       },
       "history": [
+        {
+          "version": "1.2.2",
+          "notes": "Anti Lag, keybinds from profiles, colour picker, modules stay on after restart",
+          "published": "2026-09-12T14:18:51.6661731Z",
+          "package": {
+            "url": "https://github.com/actuallyscamm/dsoessentials-dist/releases/download/release-1.2.2/release-1.2.2.bin",
+            "size": 149653400,
+            "sha256": "a567c7f03b2ca3f745b5780bca72d6c0a136cf72262ea22ebcf455b3cefc3791",
+            "plain": "39be685e0da78c061ed0ac415121f7ba02d8d621b029c776cb0c5ffbec6a48e7",
+            "enc": "aes-256-gcm",
+            "salt": "m1Vbkem7FvYsE/g6GrlNFw==",
+            "nonce": "tgVeCudfUYU=",
+            "keyId": "release-1.2.2-b6a088ab"
+          }
+        },
         {
           "version": "1.2.1",
           "notes": "fixes the game closing on inject after the September 9th game update",
@@ -74,21 +89,6 @@
             "salt": "qxmUDZ6UUNcLhQVrr01qXQ==",
             "nonce": "8HHZFsP78ug=",
             "keyId": "release-1.01-41b8cd48"
-          }
-        },
-        {
-          "version": "1.0",
-          "notes": "release 1.0",
-          "published": "2026-08-22T15:22:31.4423511Z",
-          "package": {
-            "url": "https://github.com/actuallyscamm/dsoessentials-dist/releases/download/release-1.0/release-1.0.bin",
-            "size": 146945590,
-            "sha256": "1a0f274222d207566142b1dc19c6474bc27fae3e8db3d36c451f12eaaed228b6",
-            "plain": "8849af4a9689e255548368fff5b31371e3062a180547104d8108ef7e295ca634",
-            "enc": "aes-256-gcm",
-            "salt": "xeJef\u002BNbHFFOX8vM0uFMdQ==",
-            "nonce": "wEdwonAaVzE=",
-            "keyId": "release-1.0-40d16be7"
           }
         }
       ]
