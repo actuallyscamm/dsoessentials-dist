@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-18T17:24:12.6724178Z",
+  "generated": "2026-09-20T11:57:46.4234608Z",
   "channels": {
     "release": {
       "version": "1.2.3",
@@ -94,20 +94,35 @@
       ]
     },
     "dev": {
-      "version": "1.2.4",
-      "notes": "beta 1.2.4",
-      "published": "2026-09-18T17:24:12.6720922Z",
+      "version": "1.3.0",
+      "notes": "beta 1.3.0",
+      "published": "2026-09-20T11:57:46.4231261Z",
       "package": {
-        "url": "https://github.com/actuallyscamm/dsoessentials-dist/releases/download/dev-1.2.4/dev-1.2.4.bin",
+        "url": "https://github.com/actuallyscamm/dsoessentials-dist/releases/download/dev-1.3.0/dev-1.3.0.bin",
         "size": 150140844,
-        "sha256": "9ecacb9ab3b3fd1071d727f4d57705a0d85c7853567bc9143495e2b6773debcf",
+        "sha256": "a823e3bd9f62bad8a295fdeb9b8d468b89d521c3548e9d7d1c01e7c080189de1",
         "plain": "faa1561eaf34507814eac3c620e170b88012455a37d8a3bef155b7bd8db4dab9",
         "enc": "aes-256-gcm",
-        "salt": "RJUlXWKlzwVxKX5jKPcsdg==",
-        "nonce": "P9LWGcZ1rQY=",
-        "keyId": "dev-1.2.4-bd2594af"
+        "salt": "60jzI6QeouMsWEOf8HerJQ==",
+        "nonce": "jivDkQg8RY4=",
+        "keyId": "dev-1.3.0-40afb0af"
       },
       "history": [
+        {
+          "version": "1.2.4",
+          "notes": "beta 1.2.4",
+          "published": "2026-09-18T17:24:12.6720922Z",
+          "package": {
+            "url": "https://github.com/actuallyscamm/dsoessentials-dist/releases/download/dev-1.2.4/dev-1.2.4.bin",
+            "size": 150140844,
+            "sha256": "9ecacb9ab3b3fd1071d727f4d57705a0d85c7853567bc9143495e2b6773debcf",
+            "plain": "faa1561eaf34507814eac3c620e170b88012455a37d8a3bef155b7bd8db4dab9",
+            "enc": "aes-256-gcm",
+            "salt": "RJUlXWKlzwVxKX5jKPcsdg==",
+            "nonce": "P9LWGcZ1rQY=",
+            "keyId": "dev-1.2.4-bd2594af"
+          }
+        },
         {
           "version": "1.1",
           "notes": "Auto Melt funktioniert jetzt wirklich, Verkaufen braucht keinen Shop mehr, Client-Fenster ueber dem Spiel, Client Behaviour Open/Hidden/Exit, Settings neu sortiert, Instanz-Highlighting",
