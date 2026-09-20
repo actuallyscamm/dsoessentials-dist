@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-20T11:57:46.4234608Z",
+  "generated": "2026-09-20T12:57:48.7488031Z",
   "channels": {
     "release": {
       "version": "1.2.3",
@@ -96,16 +96,16 @@
     "dev": {
       "version": "1.3.0",
       "notes": "beta 1.3.0",
-      "published": "2026-09-20T11:57:46.4231261Z",
+      "published": "2026-09-20T12:57:48.7484498Z",
       "package": {
         "url": "https://github.com/actuallyscamm/dsoessentials-dist/releases/download/dev-1.3.0/dev-1.3.0.bin",
-        "size": 150140844,
-        "sha256": "a823e3bd9f62bad8a295fdeb9b8d468b89d521c3548e9d7d1c01e7c080189de1",
-        "plain": "faa1561eaf34507814eac3c620e170b88012455a37d8a3bef155b7bd8db4dab9",
+        "size": 151464272,
+        "sha256": "90e18549cb897dc5ff2b0081e24c3b07cf951b054cfc9e02a5372726b9d21879",
+        "plain": "da170087ef6c973705909b9a2742a6f0299e1ea85e93fd2bebfbae9e4d66edbd",
         "enc": "aes-256-gcm",
-        "salt": "60jzI6QeouMsWEOf8HerJQ==",
-        "nonce": "jivDkQg8RY4=",
-        "keyId": "dev-1.3.0-40afb0af"
+        "salt": "8rT7kvoDulNhWbZLn\u002BWEqQ==",
+        "nonce": "GrkkqUWmQRk=",
+        "keyId": "dev-1.3.0-32fe9998"
       },
       "history": [
         {
