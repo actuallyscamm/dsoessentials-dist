@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-24T14:29:33.5103946Z",
+  "generated": "2026-09-25T20:07:19.7516453Z",
   "launcher": {
     "version": "1.2.0",
     "notes": "Installer 1.2.0",
@@ -109,21 +109,36 @@
       ]
     },
     "dev": {
-      "version": "1.3.1-beta.1",
-      "notes": "daily planner event challenges, fractured planes auto interact, maps",
-      "published": "2026-09-24T14:29:33.5099607Z",
-      "minLauncher": "1.2.0",
+      "version": "1.3.1-beta.2",
+      "notes": "Enhanced Hotbar and Discord avatar",
+      "published": "2026-09-25T20:07:19.7512130Z",
       "package": {
-        "url": "https://github.com/actuallyscamm/dsoessentials-dist/releases/download/dev-1.3.1/dev-1.3.1-beta.1.bin",
-        "size": 152685452,
-        "sha256": "544ad186f03c9e49c9482f1a82911c887b17c5bea3e54ac1bf858ed0ebfb3330",
-        "plain": "5c341d19a9eb8b917573b3fe9d0b92bfed0b11b2e908f8aa1e43381b56a40f09",
+        "url": "https://github.com/actuallyscamm/dsoessentials-dist/releases/download/dev-1.3.1/dev-1.3.1-beta.2.bin",
+        "size": 154716947,
+        "sha256": "a88755b877a0b38477bd213db5032d0a7c3ea05e111e8dc0d9701feca185e403",
+        "plain": "c84cb84c9b7057fc46064b50a89a55df052094027390a8eaff8576446bb976d5",
         "enc": "aes-256-gcm",
-        "salt": "iX2Tfn3Ei9UGWSckEnVX5A==",
-        "nonce": "MRSiSI0pV1I=",
-        "keyId": "dev-1.3.1-beta.1-9244785f"
+        "salt": "oU4ez\u002B71Dxw/pwgRN\u002BMTuw==",
+        "nonce": "P8DI4BPsqbc=",
+        "keyId": "dev-1.3.1-beta.2-c099e6ed"
       },
       "history": [
+        {
+          "version": "1.3.1-beta.1",
+          "notes": "daily planner event challenges, fractured planes auto interact, maps",
+          "published": "2026-09-24T14:29:33.5099607Z",
+          "minLauncher": "1.2.0",
+          "package": {
+            "url": "https://github.com/actuallyscamm/dsoessentials-dist/releases/download/dev-1.3.1/dev-1.3.1-beta.1.bin",
+            "size": 152685452,
+            "sha256": "544ad186f03c9e49c9482f1a82911c887b17c5bea3e54ac1bf858ed0ebfb3330",
+            "plain": "5c341d19a9eb8b917573b3fe9d0b92bfed0b11b2e908f8aa1e43381b56a40f09",
+            "enc": "aes-256-gcm",
+            "salt": "iX2Tfn3Ei9UGWSckEnVX5A==",
+            "nonce": "MRSiSI0pV1I=",
+            "keyId": "dev-1.3.1-beta.1-9244785f"
+          }
+        },
         {
           "version": "1.3.0-beta.2",
           "notes": "Ghost Item Fix / Wardrobe Toggle \u002B Cheats Plus \u002B Offhand fix / Anti Lag Smooth Fast / Daily Planner No Difficulty / Keep One fix",
@@ -182,21 +197,6 @@
             "salt": "RJUlXWKlzwVxKX5jKPcsdg==",
             "nonce": "P9LWGcZ1rQY=",
             "keyId": "dev-1.2.4-bd2594af"
-          }
-        },
-        {
-          "version": "1.1",
-          "notes": "Auto Melt funktioniert jetzt wirklich, Verkaufen braucht keinen Shop mehr, Client-Fenster ueber dem Spiel, Client Behaviour Open/Hidden/Exit, Settings neu sortiert, Instanz-Highlighting",
-          "published": "2026-09-01T16:26:31.2357694Z",
-          "package": {
-            "url": "https://github.com/actuallyscamm/dsoessentials-dist/releases/download/dev-1.1/dev-1.1.bin",
-            "size": 147761008,
-            "sha256": "a1f197b4e3485a682f83f0157472c8a493985f1c684816cc4480491b2bb78790",
-            "plain": "c37ec339049324a4e053dbc21e95987e14badf6f36a15d758b8212b7aaf84076",
-            "enc": "aes-256-gcm",
-            "salt": "03OYPM093JvQhRSKV\u002BHrvw==",
-            "nonce": "fogld/6sqv0=",
-            "keyId": "dev-1.1-08f19a34"
           }
         }
       ]
