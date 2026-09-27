@@ -1,19 +1,19 @@
 {
   "schema": 1,
-  "generated": "2026-09-25T20:07:19.7516453Z",
+  "generated": "2026-09-27T17:29:22.5329558Z",
   "launcher": {
-    "version": "1.2.0",
-    "notes": "Installer 1.2.0",
-    "published": "2026-09-24T12:48:40.7658746Z",
+    "version": "1.3.0",
+    "notes": "Request-Token",
+    "published": "2026-09-27T17:29:22.5327407Z",
     "package": {
-      "url": "https://github.com/actuallyscamm/dsoessentials-dist/releases/download/launcher-1.2.0/launcher-1.2.0.bin",
-      "size": 529650,
-      "sha256": "bc497c2eb20836bb9a29255c839d58505b75a22ba362c2c969c217aa41a46c2a",
-      "plain": "5f310509847ceeac8749009b266f0b2fe6317b7f783913c47ad55f09ce1e8a92",
+      "url": "https://github.com/actuallyscamm/dsoessentials-dist/releases/download/launcher-1.3.0/launcher-1.3.0.bin",
+      "size": 537842,
+      "sha256": "8d936ac605d1e5e497cdeac3177529cdfec775907b3375bc2aae2639663244aa",
+      "plain": "9b30233bd8a43ae3f413affbc1049615d4b4929432602c2c13cffa1f842f417c",
       "enc": "aes-256-gcm",
-      "salt": "L5tzY8AnUcLXBqpKS\u002BFWHA==",
-      "nonce": "Aayd0WbOQMQ=",
-      "keyId": "launcher-1.2.0-ab50ece4"
+      "salt": "x17U87Gxnz\u002BGCwEJ5Js4gQ==",
+      "nonce": "1ddNa/s4Q6k=",
+      "keyId": "launcher-1.3.0-80ffa41a"
     }
   },
   "channels": {
