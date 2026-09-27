@@ -1,0 +1,4 @@
+# 27 Sep: Git darf diese Dateien NICHT umschreiben - sonst passt die Signatur
+# nicht zu den Bytes, die ausgeliefert werden. Siehe sign-manifest.cmd.
+manifest.json -text
+manifest.json.sig -text
