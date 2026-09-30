@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-29T10:46:50.3129948Z",
+  "generated": "2026-09-30T14:53:33.5874614Z",
   "launcher": {
     "version": "1.3.0",
     "notes": "Request-Token",
@@ -18,20 +18,35 @@
   },
   "channels": {
     "release": {
-      "version": "1.3.1",
-      "notes": "Smart Overlays, Enhanced Hotbar, Discord avatar, hub-saved profiles \u002B fixes",
-      "published": "2026-09-29T10:46:50.3126567Z",
+      "version": "1.3.2",
+      "notes": "All modules work again after a game update broke them (release261_188).",
+      "published": "2026-09-30T14:53:33.5870908Z",
       "package": {
-        "url": "https://github.com/actuallyscamm/dsoessentials-dist/releases/download/release-1.3.1/release-1.3.1.bin",
+        "url": "https://github.com/actuallyscamm/dsoessentials-dist/releases/download/release-1.3.2/release-1.3.2.bin",
         "size": 157498549,
-        "sha256": "379beb041d637b694125c093e8a66e6c20071521c9fc725cd7e319d5ebd774e7",
-        "plain": "2d2363b20f58bf5bd0b4e428173cc7c762f30feaf2889cc1593ef03a3f1c8a88",
+        "sha256": "04a271cc56e60b128e05c5e25ba1ca0599f1c54720c668f202f8293720979485",
+        "plain": "42acc15d1609951742d72bed3192809d3fb3275dfd2a3c77961aa29096ef38f3",
         "enc": "aes-256-gcm",
-        "salt": "JxG\u002BcmeqaP5DiErxlgKjkw==",
-        "nonce": "/T9\u002BvwDztjc=",
-        "keyId": "release-1.3.1-86002b68"
+        "salt": "o0ypB5lELxJOclwZW/hY6Q==",
+        "nonce": "0W4nKj68x9s=",
+        "keyId": "release-1.3.2-b5862da3"
       },
       "history": [
+        {
+          "version": "1.3.1",
+          "notes": "Smart Overlays, Enhanced Hotbar, Discord avatar, hub-saved profiles \u002B fixes",
+          "published": "2026-09-29T10:46:50.3126567Z",
+          "package": {
+            "url": "https://github.com/actuallyscamm/dsoessentials-dist/releases/download/release-1.3.1/release-1.3.1.bin",
+            "size": 157498549,
+            "sha256": "379beb041d637b694125c093e8a66e6c20071521c9fc725cd7e319d5ebd774e7",
+            "plain": "2d2363b20f58bf5bd0b4e428173cc7c762f30feaf2889cc1593ef03a3f1c8a88",
+            "enc": "aes-256-gcm",
+            "salt": "JxG\u002BcmeqaP5DiErxlgKjkw==",
+            "nonce": "/T9\u002BvwDztjc=",
+            "keyId": "release-1.3.1-86002b68"
+          }
+        },
         {
           "version": "1.3.0",
           "notes": "Release 1.3.0",
@@ -90,20 +105,6 @@
             "salt": "uPEqsx\u002BD5AwoZx3LfiI5yA==",
             "nonce": "SgXe0kWBRmw=",
             "keyId": "release-1.2.1-ce51c6a8"
-          }
-        },
-        {
-          "version": "1.2.0",
-          "published": "2026-09-09T19:56:05.6030768Z",
-          "package": {
-            "url": "https://github.com/actuallyscamm/dsoessentials-dist/releases/download/release-1.2.0/release-1.2.0.bin",
-            "size": 149469080,
-            "sha256": "4116a668a3a99072b7f20e32875da2979853fb0a0d1a7c14bfdab343e3a46c0c",
-            "plain": "273e0f81801a5c4b3ef898c52cded52be7797016ddceff27ad880b4f1161b98a",
-            "enc": "aes-256-gcm",
-            "salt": "37QniYGr8jSE4HJ32q9C0g==",
-            "nonce": "jlmttSSz4FQ=",
-            "keyId": "release-1.2.0-465c82dd"
           }
         }
       ]
