@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-01T20:16:02.1055238Z",
+  "generated": "2026-10-09T18:06:08.6187237Z",
   "launcher": {
     "version": "1.3.0",
     "notes": "Request-Token",
@@ -110,19 +110,33 @@
       ]
     },
     "dev": {
-      "version": "1.4.0-beta.1",
-      "published": "2026-10-01T20:16:02.1051884Z",
+      "version": "1.4.0-beta.2",
+      "published": "2026-10-09T18:06:08.6182653Z",
       "package": {
-        "url": "https://github.com/actuallyscamm/dsoessentials-dist/releases/download/dev-1.4.0/dev-1.4.0-beta.1.bin",
-        "size": 158281074,
-        "sha256": "bb0c1514d069328a40ab9c8a67e23f83bf1dee3eed1efa33d133a325b656f8f4",
-        "plain": "df15c1314e02cffb851f43cd961822d29bdbeb52c118d9494bcd5f352c2a1d3d",
+        "url": "https://github.com/actuallyscamm/dsoessentials-dist/releases/download/dev-1.4.0/dev-1.4.0-beta.2.bin",
+        "size": 159420987,
+        "sha256": "a931b64ac6f703b44c1bf26e73139b9046efa7921911db1e900bd1ab7c0b257c",
+        "plain": "8b334690ed2eac8ddd099c755535dee541448d8f899831068b299395494cc1c4",
         "enc": "aes-256-gcm",
-        "salt": "xy6yzTmAmGGC1tSYXIfxeA==",
-        "nonce": "S\u002Bt1h06j5pQ=",
-        "keyId": "dev-1.4.0-beta.1-1c204297"
+        "salt": "SNEvefOVee8EF\u002Biw8Zmptw==",
+        "nonce": "xS8IZw6H8pY=",
+        "keyId": "dev-1.4.0-beta.2-59dc344c"
       },
       "history": [
+        {
+          "version": "1.4.0-beta.1",
+          "published": "2026-10-01T20:16:02.1051884Z",
+          "package": {
+            "url": "https://github.com/actuallyscamm/dsoessentials-dist/releases/download/dev-1.4.0/dev-1.4.0-beta.1.bin",
+            "size": 158281074,
+            "sha256": "bb0c1514d069328a40ab9c8a67e23f83bf1dee3eed1efa33d133a325b656f8f4",
+            "plain": "df15c1314e02cffb851f43cd961822d29bdbeb52c118d9494bcd5f352c2a1d3d",
+            "enc": "aes-256-gcm",
+            "salt": "xy6yzTmAmGGC1tSYXIfxeA==",
+            "nonce": "S\u002Bt1h06j5pQ=",
+            "keyId": "dev-1.4.0-beta.1-1c204297"
+          }
+        },
         {
           "version": "1.3.1-beta.2",
           "notes": "Enhanced Hotbar and Discord avatar",
@@ -182,21 +196,6 @@
             "salt": "PuqRcWNdA\u002BLISq0kradEwg==",
             "nonce": "ban1piC8v0w=",
             "keyId": "dev-1.3.0-beta.1-9b01b5ef"
-          }
-        },
-        {
-          "version": "1.3.0",
-          "notes": "beta 1.3.0",
-          "published": "2026-09-20T12:57:48.7484498Z",
-          "package": {
-            "url": "https://github.com/actuallyscamm/dsoessentials-dist/releases/download/dev-1.3.0/dev-1.3.0.bin",
-            "size": 151464272,
-            "sha256": "90e18549cb897dc5ff2b0081e24c3b07cf951b054cfc9e02a5372726b9d21879",
-            "plain": "da170087ef6c973705909b9a2742a6f0299e1ea85e93fd2bebfbae9e4d66edbd",
-            "enc": "aes-256-gcm",
-            "salt": "8rT7kvoDulNhWbZLn\u002BWEqQ==",
-            "nonce": "GrkkqUWmQRk=",
-            "keyId": "dev-1.3.0-32fe9998"
           }
         }
       ]
