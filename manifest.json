@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-11T14:40:59.6195182Z",
+  "generated": "2026-10-12T16:43:17.9400583Z",
   "launcher": {
     "version": "1.3.0",
     "notes": "Request-Token",
@@ -18,19 +18,34 @@
   },
   "channels": {
     "release": {
-      "version": "1.4.1",
-      "published": "2026-10-11T14:40:59.6191425Z",
+      "version": "1.4.2",
+      "notes": "Fixes for game update release261_192",
+      "published": "2026-10-12T16:43:17.9396183Z",
       "package": {
-        "url": "https://github.com/actuallyscamm/dsoessentials-dist/releases/download/release-1.4.1/release-1.4.1.bin",
-        "size": 159503283,
-        "sha256": "460d291adc53f9f6b5b645775b03616b1292c76e4c19d55200ede22a4b6c1be9",
-        "plain": "954accb2cfb7a07e32233397d7887a26ff9b2e1c3c7da189131fbe54c6ba0cd6",
+        "url": "https://github.com/actuallyscamm/dsoessentials-dist/releases/download/release-1.4.2/release-1.4.2.bin",
+        "size": 159704292,
+        "sha256": "2f19148ee3a536d88785448ed11b4c56536bb265963afb599d61ea1ed51bc5af",
+        "plain": "747306b3e09c7ab1c6a974e8f9e06a5823f8e5f1d65c6fa78c2c7dcb29d23894",
         "enc": "aes-256-gcm",
-        "salt": "S8gr5QhiMq8b4bCAn1aenw==",
-        "nonce": "Ur\u002B2gINH3c0=",
-        "keyId": "release-1.4.1-006c6131"
+        "salt": "\u002BNHHOePzXqSUFK55kvNEZw==",
+        "nonce": "Ry\u002B9Lv/7ico=",
+        "keyId": "release-1.4.2-f6f3170c"
       },
       "history": [
+        {
+          "version": "1.4.1",
+          "published": "2026-10-11T14:40:59.6191425Z",
+          "package": {
+            "url": "https://github.com/actuallyscamm/dsoessentials-dist/releases/download/release-1.4.1/release-1.4.1.bin",
+            "size": 159503283,
+            "sha256": "460d291adc53f9f6b5b645775b03616b1292c76e4c19d55200ede22a4b6c1be9",
+            "plain": "954accb2cfb7a07e32233397d7887a26ff9b2e1c3c7da189131fbe54c6ba0cd6",
+            "enc": "aes-256-gcm",
+            "salt": "S8gr5QhiMq8b4bCAn1aenw==",
+            "nonce": "Ur\u002B2gINH3c0=",
+            "keyId": "release-1.4.1-006c6131"
+          }
+        },
         {
           "version": "1.4.0",
           "published": "2026-10-11T10:29:45.1639678Z",
@@ -88,21 +103,6 @@
             "salt": "SXcFGqG3YH4RieC0ouZ6aw==",
             "nonce": "4DLKoM8j6fc=",
             "keyId": "release-1.3.0-2263cb5e"
-          }
-        },
-        {
-          "version": "1.2.3",
-          "notes": "Sound Mixer, neuer Settings-Tab, Loop in Create, Streamer Mode an der Quelle, viele Fixes",
-          "published": "2026-09-16T15:53:04.1798525Z",
-          "package": {
-            "url": "https://github.com/actuallyscamm/dsoessentials-dist/releases/download/release-1.2.3/release-1.2.3.bin",
-            "size": 149800856,
-            "sha256": "f29f3eb054e3a41908ab57f39fbb410874dfa1c710cd34fc62be950ca8b9706f",
-            "plain": "c345344adb249c07c11ddf48eb21cb6a869cb6ef8fcf89d4f721c4852b6b5aea",
-            "enc": "aes-256-gcm",
-            "salt": "DATTGL2xnKSeKuzAbjMh2g==",
-            "nonce": "1eM3chZ8OEU=",
-            "keyId": "release-1.2.3-f602994e"
           }
         }
       ]
