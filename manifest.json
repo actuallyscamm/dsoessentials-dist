@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-17T10:36:40.5387980Z",
+  "generated": "2026-10-18T10:38:11.4732578Z",
   "launcher": {
     "version": "1.3.0",
     "notes": "Request-Token",
@@ -18,20 +18,34 @@
   },
   "channels": {
     "release": {
-      "version": "1.4.2",
-      "notes": "Fixes for game update release261_192",
-      "published": "2026-10-12T16:43:17.9396183Z",
+      "version": "1.5.0",
+      "published": "2026-10-18T10:38:11.4728539Z",
       "package": {
-        "url": "https://github.com/actuallyscamm/dsoessentials-dist/releases/download/release-1.4.2/release-1.4.2.bin",
-        "size": 159704292,
-        "sha256": "2f19148ee3a536d88785448ed11b4c56536bb265963afb599d61ea1ed51bc5af",
-        "plain": "747306b3e09c7ab1c6a974e8f9e06a5823f8e5f1d65c6fa78c2c7dcb29d23894",
+        "url": "https://github.com/actuallyscamm/dsoessentials-dist/releases/download/release-1.5.0/release-1.5.0.bin",
+        "size": 161193010,
+        "sha256": "9dd7fdb69fa22b03c0ee9fb0e9dbf7dbaf19cafbadfc17000308507ff5f839c1",
+        "plain": "97ff17184a553cd6f749190e255b1627ad3281cc4f0554d80879ae4a90cdc302",
         "enc": "aes-256-gcm",
-        "salt": "\u002BNHHOePzXqSUFK55kvNEZw==",
-        "nonce": "Ry\u002B9Lv/7ico=",
-        "keyId": "release-1.4.2-f6f3170c"
+        "salt": "N6iUuFcYRqHe0Mj/ji81iA==",
+        "nonce": "zUoVqnekxEI=",
+        "keyId": "release-1.5.0-7afa6058"
       },
       "history": [
+        {
+          "version": "1.4.2",
+          "notes": "Fixes for game update release261_192",
+          "published": "2026-10-12T16:43:17.9396183Z",
+          "package": {
+            "url": "https://github.com/actuallyscamm/dsoessentials-dist/releases/download/release-1.4.2/release-1.4.2.bin",
+            "size": 159704292,
+            "sha256": "2f19148ee3a536d88785448ed11b4c56536bb265963afb599d61ea1ed51bc5af",
+            "plain": "747306b3e09c7ab1c6a974e8f9e06a5823f8e5f1d65c6fa78c2c7dcb29d23894",
+            "enc": "aes-256-gcm",
+            "salt": "\u002BNHHOePzXqSUFK55kvNEZw==",
+            "nonce": "Ry\u002B9Lv/7ico=",
+            "keyId": "release-1.4.2-f6f3170c"
+          }
+        },
         {
           "version": "1.4.1",
           "published": "2026-10-11T14:40:59.6191425Z",
@@ -88,21 +102,6 @@
             "salt": "JxG\u002BcmeqaP5DiErxlgKjkw==",
             "nonce": "/T9\u002BvwDztjc=",
             "keyId": "release-1.3.1-86002b68"
-          }
-        },
-        {
-          "version": "1.3.0",
-          "notes": "Release 1.3.0",
-          "published": "2026-09-23T14:41:13.2941716Z",
-          "package": {
-            "url": "https://github.com/actuallyscamm/dsoessentials-dist/releases/download/release-1.3.0/release-1.3.0.bin",
-            "size": 151989062,
-            "sha256": "e33ad7f9206f6a8bbeb21460628a46d00d38258e1eef81a9d9f5e89664d2598f",
-            "plain": "8b07ae0197442e989fa595c80083073079967af1aab8a0f67a35ac3049234747",
-            "enc": "aes-256-gcm",
-            "salt": "SXcFGqG3YH4RieC0ouZ6aw==",
-            "nonce": "4DLKoM8j6fc=",
-            "keyId": "release-1.3.0-2263cb5e"
           }
         }
       ]
